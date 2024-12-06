@@ -1,4 +1,4 @@
-# Layout do App
+# AppLayout
 
 Seja bem-vindo ao *Layout do App*! Este é o projeto com o objetivo de elaborar layouts modernos e responsivos para aplicativos.
 
